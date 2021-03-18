@@ -1,0 +1,53 @@
+body{
+    background-image: url("back.jpg");
+    color:blanchedalmond;
+    text-align: center;
+    
+}
+
+
+
+#page_header{  
+    position: relative;
+    bottom: 50px;
+    text-align:center;
+    font-size:60px;
+    font-family: 'Courier', monospace;
+    margin-top: 2%;
+}
+
+#initial_story{
+    position: relative;
+    bottom: 90px;
+    text-align:left;
+    font-size: 20px;  
+    font-family: "Courier";
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 4%;
+}
+
+
+
+h3 {
+    text-align:center;
+
+    font-size: 80px;  
+    font-family: "Courier";
+}
+
+a{
+    color: #e0cc11;
+    
+}
+  
+a:hover {
+    color: rgb(105, 5, 114);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+
+
+
+
